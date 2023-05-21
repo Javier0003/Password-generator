@@ -54,6 +54,7 @@ body {
     border: 0;
     outline: 0;
     font-size: 24px;
+    width: 1000px;
 }
 
 .container button img {
